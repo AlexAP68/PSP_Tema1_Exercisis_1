@@ -1,0 +1,4 @@
+ El volumen de la unidad C es Windows-SSD
+ El número de serie del volumen es: 4AB4-75BA
+
+
